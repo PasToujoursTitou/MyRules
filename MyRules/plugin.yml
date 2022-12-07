@@ -1,0 +1,9 @@
+name: MyRules
+version: 1.0
+author: ToujoursTitou
+main: fr.titou.myrules.Main
+api-version: 1.13
+commands:
+  rules:
+    description: display server's rules
+    permission: rules.use
